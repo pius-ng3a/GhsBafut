@@ -1,3 +1,2 @@
 # GhsBafut
-#this project is a school website to provide basic historical information about a school.
-#the first version of it would just be for historical data and latter on, a new version in the form of a web application wil be available with functionalities. MVC  would be paradigm used in construction.
+This project is a website developed for Government High School Bafut alumni association. It keeps track of alumni information and their activites geered toward promoting growth of the alma matter. The development is done using JavaScript,PHP and Laravel technologies and it uses MVC architecture. It consists of backend and front-end modules with a dashboard that generates diverse statistics for management.  
